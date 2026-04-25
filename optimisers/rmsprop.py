@@ -11,6 +11,6 @@ class RMSProp(Optimizer):
     def step(self, params, grads):
         for k in params:
             if k not in self.v:
-                self.v[0] = np.zeros_like(params[k])
+                self.v[k] = np.zeros_like(params[k])
             self.v[k] = self.beta * self.v[k] + (1 - self.beta) * (grads[k] ** 2)
             params[k] -= self.lr * grads[k] / (np.sqrt(self.v[k]) + self.eps)

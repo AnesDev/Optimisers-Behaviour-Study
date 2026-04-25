@@ -1,6 +1,6 @@
-from base import Optimizer
+from .base import Optimizer
 
-class GradientDescent(Optimizer):
+class SGD(Optimizer):
     def step(self, params, grads):
         for k in params:
             params[k] -= self.lr * grads[k]

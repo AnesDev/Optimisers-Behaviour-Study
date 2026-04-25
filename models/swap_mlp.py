@@ -1,22 +1,17 @@
 import numpy as np
 
-class MLP:
-    def __init__(self, input_size, hidden_size, output_size, optimizer, params=None, seed=None):
-        
+class swap_MLP:
+    def __init__(self, input_size, hidden_size, output_size, optimizer, seed=None):
+        if seed is not None:
+            np.random.seed(seed)
+
         self.optimizer = optimizer
-
-        if params is not None:
-            self.params = params
-        else:
-            if seed is not None:
-                np.random.seed(seed)
-
-            self.params = {
-                "w1": np.random.randn(input_size, hidden_size),
-                "b1": np.random.randn(1, hidden_size),
-                "w2": np.random.randn(hidden_size, output_size),
-                "b2": np.random.randn(1, output_size),
-            }
+        self.params = {
+            "w1": np.random.randn(input_size, hidden_size),
+            "b1": np.random.randn(1, hidden_size),
+            "w2": np.random.randn(hidden_size, output_size),
+            "b2": np.random.randn(1, output_size),
+        }
 
     def relu(self, x):
         return np.maximum(x, 0)
@@ -37,6 +32,17 @@ class MLP:
     def forward(self, X):
         self.Z1 = X @ self.params["w1"] + self.params["b1"]
         self.A1 = self.relu(self.Z1)
+
+        i = np.random.randint(0, 20)
+        j = np.random.randint(0, 20)
+        
+        while(i == j):
+            i = np.random.randint(0, 20)
+            j = np.random.randint(0, 20)
+            
+        
+        self.A1[i], self.A1[j] = self.A1[j], self.A1[i]
+
         self.Z2 = self.A1 @ self.params["w2"] + self.params["b2"]
         self.A2 = self.softmax(self.Z2)
         return self.A2

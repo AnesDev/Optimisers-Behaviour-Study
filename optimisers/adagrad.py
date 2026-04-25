@@ -10,6 +10,6 @@ class AdaGrad(Optimizer):
     def step(self, params, grads):
         for k in params:
             if k not in self.G:
-                self.g[0] = np.zeros_like(params[k])
+                self.g[k] = np.zeros_like(params[k])
             self.g[k] += grads[k] ** 2
             params[k] -= self.lr * grads[k] / (np.sqrt(self.g[k]) + self.eps)

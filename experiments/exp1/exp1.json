@@ -1,5084 +1,1082 @@
 [
     {
-        "hidden_size": 5,
-        "lr": 0.001,
-        "epochs": 500,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.001,
-        "epochs": 1000,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.001,
-        "epochs": 1500,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.001,
-        "epochs": 2000,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.001,
-        "epochs": 2500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.001,
-        "epochs": 3000,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.001,
-        "epochs": 3500,
-        "accuracy": 0.93
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.002,
-        "epochs": 500,
-        "accuracy": 0.8
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.002,
-        "epochs": 1000,
-        "accuracy": 0.84
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.002,
-        "epochs": 1500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.002,
-        "epochs": 2000,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.002,
-        "epochs": 2500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.002,
-        "epochs": 3000,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.002,
-        "epochs": 3500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.003,
-        "epochs": 500,
-        "accuracy": 0.81
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.003,
-        "epochs": 1000,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.003,
-        "epochs": 1500,
-        "accuracy": 0.75
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.003,
-        "epochs": 2000,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.003,
-        "epochs": 2500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.003,
-        "epochs": 3000,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.003,
-        "epochs": 3500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.004,
-        "epochs": 500,
-        "accuracy": 0.56
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.004,
-        "epochs": 1000,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.004,
-        "epochs": 1500,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.004,
-        "epochs": 2000,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.004,
-        "epochs": 2500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.004,
-        "epochs": 3000,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.004,
-        "epochs": 3500,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.005,
-        "epochs": 500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.005,
-        "epochs": 1000,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.005,
-        "epochs": 1500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.005,
-        "epochs": 2000,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.005,
-        "epochs": 2500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.005,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.005,
-        "epochs": 3500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.006,
-        "epochs": 500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.006,
-        "epochs": 1000,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.006,
-        "epochs": 1500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.006,
-        "epochs": 2000,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.006,
-        "epochs": 2500,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.006,
-        "epochs": 3000,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.006,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.007,
-        "epochs": 500,
-        "accuracy": 0.84
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.007,
-        "epochs": 1000,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.007,
-        "epochs": 1500,
-        "accuracy": 0.84
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.007,
-        "epochs": 2000,
-        "accuracy": 0.93
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.007,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.007,
-        "epochs": 3000,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.007,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.008,
-        "epochs": 500,
-        "accuracy": 0.8
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.008,
-        "epochs": 1000,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.008,
-        "epochs": 1500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.008,
-        "epochs": 2000,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.008,
-        "epochs": 2500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.008,
-        "epochs": 3000,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.008,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.009000000000000001,
-        "epochs": 500,
-        "accuracy": 0.67
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.009000000000000001,
-        "epochs": 1000,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.009000000000000001,
-        "epochs": 1500,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.009000000000000001,
-        "epochs": 2000,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.009000000000000001,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.009000000000000001,
-        "epochs": 3000,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.009000000000000001,
-        "epochs": 3500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.010000000000000002,
-        "epochs": 500,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.010000000000000002,
-        "epochs": 1000,
-        "accuracy": 0.55
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.010000000000000002,
-        "epochs": 1500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.010000000000000002,
-        "epochs": 2000,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.010000000000000002,
-        "epochs": 2500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.010000000000000002,
-        "epochs": 3000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.010000000000000002,
-        "epochs": 3500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.011,
-        "epochs": 500,
-        "accuracy": 0.81
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.011,
-        "epochs": 1000,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.011,
-        "epochs": 1500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.011,
-        "epochs": 2000,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.011,
-        "epochs": 2500,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.011,
-        "epochs": 3000,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 5,
-        "lr": 0.011,
-        "epochs": 3500,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.001,
-        "epochs": 500,
-        "accuracy": 0.83
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.001,
-        "epochs": 1000,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.001,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.001,
-        "epochs": 2000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.001,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.001,
-        "epochs": 3000,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.002,
-        "epochs": 500,
-        "accuracy": 0.84
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.002,
-        "epochs": 1000,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.002,
-        "epochs": 1500,
-        "accuracy": 0.93
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.002,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.002,
-        "epochs": 2500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.002,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.002,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.003,
-        "epochs": 500,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.003,
-        "epochs": 1000,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.003,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.003,
-        "epochs": 2000,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.003,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.003,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.003,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.004,
-        "epochs": 500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.004,
-        "epochs": 1000,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.004,
-        "epochs": 1500,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.004,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.004,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.004,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.004,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.005,
-        "epochs": 500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.005,
-        "epochs": 1000,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.005,
-        "epochs": 1500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.005,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.005,
-        "epochs": 2500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.005,
-        "epochs": 3000,
-        "accuracy": 0.93
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.005,
-        "epochs": 3500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.006,
-        "epochs": 500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.006,
-        "epochs": 1000,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.006,
-        "epochs": 1500,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.006,
-        "epochs": 2000,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.006,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.006,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.006,
-        "epochs": 3500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.007,
-        "epochs": 500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.007,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.007,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.007,
-        "epochs": 2000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.007,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.007,
-        "epochs": 3000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.007,
-        "epochs": 3500,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.008,
-        "epochs": 500,
-        "accuracy": 0.84
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.008,
-        "epochs": 1000,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.008,
-        "epochs": 1500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.008,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.008,
-        "epochs": 2500,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.008,
-        "epochs": 3000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.008,
-        "epochs": 3500,
-        "accuracy": 0.93
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.009000000000000001,
-        "epochs": 500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.009000000000000001,
-        "epochs": 1000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.009000000000000001,
-        "epochs": 1500,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.009000000000000001,
-        "epochs": 2000,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.009000000000000001,
-        "epochs": 2500,
-        "accuracy": 0.93
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.009000000000000001,
-        "epochs": 3000,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.009000000000000001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.010000000000000002,
-        "epochs": 500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.010000000000000002,
-        "epochs": 1000,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.010000000000000002,
-        "epochs": 1500,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.010000000000000002,
-        "epochs": 2000,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.010000000000000002,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.010000000000000002,
-        "epochs": 3000,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.010000000000000002,
-        "epochs": 3500,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.011,
-        "epochs": 500,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.011,
-        "epochs": 1000,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.011,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.011,
-        "epochs": 2000,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.011,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.011,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 10,
-        "lr": 0.011,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.001,
-        "epochs": 500,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.001,
-        "epochs": 1000,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.001,
-        "epochs": 1500,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.001,
-        "epochs": 2000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.001,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.001,
-        "epochs": 3000,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.002,
-        "epochs": 500,
-        "accuracy": 0.43
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.002,
-        "epochs": 1000,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.002,
-        "epochs": 1500,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.002,
-        "epochs": 2000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.002,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.002,
-        "epochs": 3000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.002,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.003,
-        "epochs": 500,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.003,
-        "epochs": 1000,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.003,
-        "epochs": 1500,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.003,
-        "epochs": 2000,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.003,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.003,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.003,
-        "epochs": 3500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.004,
-        "epochs": 500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.004,
-        "epochs": 1000,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.004,
-        "epochs": 1500,
-        "accuracy": 0.93
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.004,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.004,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.004,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.004,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.005,
-        "epochs": 500,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.005,
-        "epochs": 1000,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.005,
-        "epochs": 1500,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.005,
-        "epochs": 2000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.005,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.005,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.005,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.006,
-        "epochs": 500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.006,
-        "epochs": 1000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.006,
-        "epochs": 1500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.006,
-        "epochs": 2000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.006,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.006,
-        "epochs": 3000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.006,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.007,
-        "epochs": 500,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.007,
-        "epochs": 1000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.007,
-        "epochs": 1500,
-        "accuracy": 0.93
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.007,
-        "epochs": 2000,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.007,
-        "epochs": 2500,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.007,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.007,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.008,
-        "epochs": 500,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.008,
-        "epochs": 1000,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.008,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.008,
-        "epochs": 2000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.008,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.008,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.008,
-        "epochs": 3500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.009000000000000001,
-        "epochs": 500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.009000000000000001,
-        "epochs": 1000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.009000000000000001,
-        "epochs": 1500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.009000000000000001,
-        "epochs": 2000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.009000000000000001,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.009000000000000001,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.009000000000000001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.010000000000000002,
-        "epochs": 500,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.010000000000000002,
-        "epochs": 1000,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.010000000000000002,
-        "epochs": 1500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.010000000000000002,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.010000000000000002,
-        "epochs": 2500,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.010000000000000002,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.010000000000000002,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.011,
-        "epochs": 500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.011,
-        "epochs": 1000,
-        "accuracy": 0.93
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.011,
-        "epochs": 1500,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.011,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.011,
-        "epochs": 2500,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.011,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 15,
-        "lr": 0.011,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.001,
-        "epochs": 500,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.001,
-        "epochs": 1000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.001,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.001,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.001,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.001,
-        "epochs": 3000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.002,
-        "epochs": 500,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.002,
-        "epochs": 1000,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.002,
-        "epochs": 1500,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.002,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.002,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.002,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.002,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.003,
-        "epochs": 500,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.003,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.003,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.003,
-        "epochs": 2000,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.003,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.003,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.003,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.004,
-        "epochs": 500,
-        "accuracy": 0.78
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.004,
-        "epochs": 1000,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.004,
-        "epochs": 1500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.004,
-        "epochs": 2000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.004,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.004,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.004,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.005,
-        "epochs": 500,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.005,
-        "epochs": 1000,
-        "accuracy": 0.84
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.005,
-        "epochs": 1500,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.005,
-        "epochs": 2000,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.005,
-        "epochs": 2500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.005,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.005,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.006,
-        "epochs": 500,
-        "accuracy": 0.84
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.006,
-        "epochs": 1000,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.006,
-        "epochs": 1500,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.006,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.006,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.006,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.006,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.007,
-        "epochs": 500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.007,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.007,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.007,
-        "epochs": 2000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.007,
-        "epochs": 2500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.007,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.007,
-        "epochs": 3500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.008,
-        "epochs": 500,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.008,
-        "epochs": 1000,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.008,
-        "epochs": 1500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.008,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.008,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.008,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.008,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.009000000000000001,
-        "epochs": 500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.009000000000000001,
-        "epochs": 1000,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.009000000000000001,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.009000000000000001,
-        "epochs": 2000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.009000000000000001,
-        "epochs": 2500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.009000000000000001,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.009000000000000001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.010000000000000002,
-        "epochs": 500,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.010000000000000002,
-        "epochs": 1000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.010000000000000002,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.010000000000000002,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.010000000000000002,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.010000000000000002,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.010000000000000002,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.011,
-        "epochs": 500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.011,
-        "epochs": 1000,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.011,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.011,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.011,
-        "epochs": 2500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.011,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 20,
-        "lr": 0.011,
-        "epochs": 3500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.001,
-        "epochs": 500,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.001,
-        "epochs": 1000,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.001,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.001,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.001,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.001,
-        "epochs": 3000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.002,
-        "epochs": 500,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.002,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.002,
-        "epochs": 1500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.002,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.002,
-        "epochs": 2500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.002,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.002,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.003,
-        "epochs": 500,
-        "accuracy": 0.84
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.003,
-        "epochs": 1000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.003,
-        "epochs": 1500,
-        "accuracy": 0.93
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.003,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.003,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.003,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.003,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.004,
-        "epochs": 500,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.004,
-        "epochs": 1000,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.004,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.004,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.004,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.004,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.004,
-        "epochs": 3500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.005,
-        "epochs": 500,
-        "accuracy": 0.84
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.005,
-        "epochs": 1000,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.005,
-        "epochs": 1500,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.005,
-        "epochs": 2000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.005,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.005,
-        "epochs": 3000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.005,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.006,
-        "epochs": 500,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.006,
-        "epochs": 1000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.006,
-        "epochs": 1500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.006,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.006,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.006,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.006,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.007,
-        "epochs": 500,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.007,
-        "epochs": 1000,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.007,
-        "epochs": 1500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.007,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.007,
-        "epochs": 2500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.007,
-        "epochs": 3000,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.007,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.008,
-        "epochs": 500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.008,
-        "epochs": 1000,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.008,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.008,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.008,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.008,
-        "epochs": 3000,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.008,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.009000000000000001,
-        "epochs": 500,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.009000000000000001,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.009000000000000001,
-        "epochs": 1500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.009000000000000001,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.009000000000000001,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.009000000000000001,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.009000000000000001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.010000000000000002,
-        "epochs": 500,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.010000000000000002,
-        "epochs": 1000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.010000000000000002,
-        "epochs": 1500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.010000000000000002,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.010000000000000002,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.010000000000000002,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.010000000000000002,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.011,
-        "epochs": 500,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.011,
-        "epochs": 1000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.011,
-        "epochs": 1500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.011,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.011,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.011,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 25,
-        "lr": 0.011,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.001,
-        "epochs": 500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.001,
-        "epochs": 1000,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.001,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.001,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.001,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.001,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.002,
-        "epochs": 500,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.002,
-        "epochs": 1000,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.002,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.002,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.002,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.002,
-        "epochs": 3000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.002,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.003,
-        "epochs": 500,
-        "accuracy": 0.79
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.003,
-        "epochs": 1000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.003,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.003,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.003,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.003,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.003,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.004,
-        "epochs": 500,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.004,
-        "epochs": 1000,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.004,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.004,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.004,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.004,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.004,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.005,
-        "epochs": 500,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.005,
-        "epochs": 1000,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.005,
-        "epochs": 1500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.005,
-        "epochs": 2000,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.005,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.005,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.005,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.006,
-        "epochs": 500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.006,
-        "epochs": 1000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.006,
-        "epochs": 1500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.006,
-        "epochs": 2000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.006,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.006,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.006,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.007,
-        "epochs": 500,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.007,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.007,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.007,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.007,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.007,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.007,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.008,
-        "epochs": 500,
-        "accuracy": 0.86
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.008,
-        "epochs": 1000,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.008,
-        "epochs": 1500,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.008,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.008,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.008,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.008,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.009000000000000001,
-        "epochs": 500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.009000000000000001,
-        "epochs": 1000,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.009000000000000001,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.009000000000000001,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.009000000000000001,
-        "epochs": 2500,
-        "accuracy": 0.93
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.009000000000000001,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.009000000000000001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.010000000000000002,
-        "epochs": 500,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.010000000000000002,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.010000000000000002,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.010000000000000002,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.010000000000000002,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.010000000000000002,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.010000000000000002,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.011,
-        "epochs": 500,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.011,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.011,
-        "epochs": 1500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.011,
-        "epochs": 2000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.011,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.011,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 30,
-        "lr": 0.011,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.001,
-        "epochs": 500,
-        "accuracy": 0.85
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.001,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.001,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.001,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.001,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.001,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.002,
-        "epochs": 500,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.002,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.002,
-        "epochs": 1500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.002,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.002,
-        "epochs": 2500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.002,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.002,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.003,
-        "epochs": 500,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.003,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.003,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.003,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.003,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.003,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.003,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.004,
-        "epochs": 500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.004,
-        "epochs": 1000,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.004,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.004,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.004,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.004,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.004,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.005,
-        "epochs": 500,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.005,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.005,
-        "epochs": 1500,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.005,
-        "epochs": 2000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.005,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.005,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.005,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.006,
-        "epochs": 500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.006,
-        "epochs": 1000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.006,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.006,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.006,
-        "epochs": 2500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.006,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.006,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.007,
-        "epochs": 500,
-        "accuracy": 0.79
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.007,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.007,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.007,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.007,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.007,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.007,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.008,
-        "epochs": 500,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.008,
-        "epochs": 1000,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.008,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.008,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.008,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.008,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.008,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.009000000000000001,
-        "epochs": 500,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.009000000000000001,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.009000000000000001,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.009000000000000001,
-        "epochs": 2000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.009000000000000001,
-        "epochs": 2500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.009000000000000001,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.009000000000000001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.010000000000000002,
-        "epochs": 500,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.010000000000000002,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.010000000000000002,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.010000000000000002,
-        "epochs": 2000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.010000000000000002,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.010000000000000002,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.010000000000000002,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.011,
-        "epochs": 500,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.011,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.011,
-        "epochs": 1500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.011,
-        "epochs": 2000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.011,
-        "epochs": 2500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.011,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 35,
-        "lr": 0.011,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.001,
-        "epochs": 500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.001,
-        "epochs": 1000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.001,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.001,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.001,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.001,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.001,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.002,
-        "epochs": 500,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.002,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.002,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.002,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.002,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.002,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.002,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.003,
-        "epochs": 500,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.003,
-        "epochs": 1000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.003,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.003,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.003,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.003,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.003,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.004,
-        "epochs": 500,
-        "accuracy": 0.93
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.004,
-        "epochs": 1000,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.004,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.004,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.004,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.004,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.004,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.005,
-        "epochs": 500,
-        "accuracy": 0.84
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.005,
-        "epochs": 1000,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.005,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.005,
-        "epochs": 2000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.005,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.005,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.005,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.006,
-        "epochs": 500,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.006,
-        "epochs": 1000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.006,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.006,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.006,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.006,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.006,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.007,
-        "epochs": 500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.007,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.007,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.007,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.007,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.007,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.007,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.008,
-        "epochs": 500,
-        "accuracy": 0.84
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.008,
-        "epochs": 1000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.008,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.008,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.008,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.008,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.008,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.009000000000000001,
-        "epochs": 500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.009000000000000001,
-        "epochs": 1000,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.009000000000000001,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.009000000000000001,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.009000000000000001,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.009000000000000001,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.009000000000000001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.010000000000000002,
-        "epochs": 500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.010000000000000002,
-        "epochs": 1000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.010000000000000002,
-        "epochs": 1500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.010000000000000002,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.010000000000000002,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.010000000000000002,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.010000000000000002,
-        "epochs": 3500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.011,
-        "epochs": 500,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.011,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.011,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.011,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.011,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.011,
-        "epochs": 3000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 40,
-        "lr": 0.011,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.001,
-        "epochs": 500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.001,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.001,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.001,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.001,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.001,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.002,
-        "epochs": 500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.002,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.002,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.002,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.002,
-        "epochs": 2500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.002,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.002,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.003,
-        "epochs": 500,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.003,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.003,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.003,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.003,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.003,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.003,
-        "epochs": 3500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.004,
-        "epochs": 500,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.004,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.004,
-        "epochs": 1500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.004,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.004,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.004,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.004,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.005,
-        "epochs": 500,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.005,
-        "epochs": 1000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.005,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.005,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.005,
-        "epochs": 2500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.005,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.005,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.006,
-        "epochs": 500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.006,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.006,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.006,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.006,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.006,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.006,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.007,
-        "epochs": 500,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.007,
-        "epochs": 1000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.007,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.007,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.007,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.007,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.007,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.008,
-        "epochs": 500,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.008,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.008,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.008,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.008,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.008,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.008,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.009000000000000001,
-        "epochs": 500,
-        "accuracy": 0.84
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.009000000000000001,
-        "epochs": 1000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.009000000000000001,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.009000000000000001,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.009000000000000001,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.009000000000000001,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.009000000000000001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.010000000000000002,
-        "epochs": 500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.010000000000000002,
-        "epochs": 1000,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.010000000000000002,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.010000000000000002,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.010000000000000002,
-        "epochs": 2500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.010000000000000002,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.010000000000000002,
-        "epochs": 3500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.011,
-        "epochs": 500,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.011,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.011,
-        "epochs": 1500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.011,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.011,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.011,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 45,
-        "lr": 0.011,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.001,
-        "epochs": 500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.001,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.001,
-        "epochs": 1500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.001,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.001,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.001,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.002,
-        "epochs": 500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.002,
-        "epochs": 1000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.002,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.002,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.002,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.002,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.002,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.003,
-        "epochs": 500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.003,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.003,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.003,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.003,
-        "epochs": 2500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.003,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.003,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.004,
-        "epochs": 500,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.004,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.004,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.004,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.004,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.004,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.004,
-        "epochs": 3500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.005,
-        "epochs": 500,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.005,
-        "epochs": 1000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.005,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.005,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.005,
-        "epochs": 2500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.005,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.005,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.006,
-        "epochs": 500,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.006,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.006,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.006,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.006,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.006,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.006,
-        "epochs": 3500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.007,
-        "epochs": 500,
-        "accuracy": 0.88
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.007,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.007,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.007,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.007,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.007,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.007,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.008,
-        "epochs": 500,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.008,
-        "epochs": 1000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.008,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.008,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.008,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.008,
-        "epochs": 3000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.008,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.009000000000000001,
-        "epochs": 500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.009000000000000001,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.009000000000000001,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.009000000000000001,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.009000000000000001,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.009000000000000001,
-        "epochs": 3000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.009000000000000001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.010000000000000002,
-        "epochs": 500,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.010000000000000002,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.010000000000000002,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.010000000000000002,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.010000000000000002,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.010000000000000002,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.010000000000000002,
-        "epochs": 3500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.011,
-        "epochs": 500,
-        "accuracy": 0.87
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.011,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.011,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.011,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.011,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.011,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 50,
-        "lr": 0.011,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.001,
-        "epochs": 500,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.001,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.001,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.001,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.001,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.001,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.002,
-        "epochs": 500,
-        "accuracy": 0.94
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.002,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.002,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.002,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.002,
-        "epochs": 2500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.002,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.002,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.003,
-        "epochs": 500,
-        "accuracy": 0.89
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.003,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.003,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.003,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.003,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.003,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.003,
-        "epochs": 3500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.004,
-        "epochs": 500,
-        "accuracy": 0.84
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.004,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.004,
-        "epochs": 1500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.004,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.004,
-        "epochs": 2500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.004,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.004,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.005,
-        "epochs": 500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.005,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.005,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.005,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.005,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.005,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.005,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.006,
-        "epochs": 500,
-        "accuracy": 0.93
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.006,
-        "epochs": 1000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.006,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.006,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.006,
-        "epochs": 2500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.006,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.006,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.007,
-        "epochs": 500,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.007,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.007,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.007,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.007,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.007,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.007,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.008,
-        "epochs": 500,
-        "accuracy": 0.92
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.008,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.008,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.008,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.008,
-        "epochs": 2500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.008,
-        "epochs": 3000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.008,
-        "epochs": 3500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.009000000000000001,
-        "epochs": 500,
-        "accuracy": 0.95
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.009000000000000001,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.009000000000000001,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.009000000000000001,
-        "epochs": 2000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.009000000000000001,
-        "epochs": 2500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.009000000000000001,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.009000000000000001,
-        "epochs": 3500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.010000000000000002,
-        "epochs": 500,
-        "accuracy": 0.9
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.010000000000000002,
-        "epochs": 1000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.010000000000000002,
-        "epochs": 1500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.010000000000000002,
-        "epochs": 2000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.010000000000000002,
-        "epochs": 2500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.010000000000000002,
-        "epochs": 3000,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.010000000000000002,
-        "epochs": 3500,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.011,
-        "epochs": 500,
-        "accuracy": 0.91
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.011,
-        "epochs": 1000,
-        "accuracy": 0.96
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.011,
-        "epochs": 1500,
-        "accuracy": 0.98
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.011,
-        "epochs": 2000,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.011,
-        "epochs": 2500,
-        "accuracy": 0.99
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.011,
-        "epochs": 3000,
-        "accuracy": 0.97
-    },
-    {
-        "hidden_size": 55,
-        "lr": 0.011,
-        "epochs": 3500,
-        "accuracy": 0.96
+        "optimiser": "sgd",
+        "seed": 1843165,
+        "accuracy": 0.91,
+        "loss_history": [
+            4.0788842777460745,
+            0.34137561839950836,
+            0.2915189219452918,
+            0.27140947558045375,
+            0.2591543716743799,
+            0.2509550122063285,
+            0.24459604946272478,
+            0.23907357367571222,
+            0.2341501950910693,
+            0.22962492650063157,
+            0.22538921610553103,
+            0.22141439398787482,
+            0.21771123510030763,
+            0.21403043055327067,
+            0.2104334689430228,
+            0.20691068580395094,
+            0.2035992661474851,
+            0.20040748801918645,
+            0.19731043656810665,
+            0.1943174259178997
+        ]
+    },
+    {
+        "optimiser": "sgd",
+        "seed": 6279838,
+        "accuracy": 0.89,
+        "loss_history": [
+            0.7536336851262271,
+            0.2816989397291653,
+            0.26947224820002547,
+            0.2611410327752909,
+            0.2536370925630248,
+            0.24709307586299784,
+            0.24227043482278693,
+            0.23906312645523392,
+            0.23656594568707995,
+            0.23449006604557915,
+            0.23268380645395922,
+            0.23088798138939365,
+            0.22903838692091213,
+            0.22717947475717223,
+            0.22531654231516146,
+            0.2234015256347644,
+            0.22148933691428474,
+            0.2196156910405056,
+            0.21774350629555247,
+            0.21585398797931035
+        ]
+    },
+    {
+        "optimiser": "sgd",
+        "seed": 4641514,
+        "accuracy": 0.95,
+        "loss_history": [
+            1.6681449019224248,
+            0.31851521328359583,
+            0.2645432769614872,
+            0.2405118421533901,
+            0.22640092397000813,
+            0.21630615794176664,
+            0.2075622674334884,
+            0.19980071915218495,
+            0.19298143298523598,
+            0.18721068426104673,
+            0.18184369081133817,
+            0.176869626169378,
+            0.1721715917381778,
+            0.1678230916000254,
+            0.16384120477106973,
+            0.16028938163360829,
+            0.15690666534305767,
+            0.1536427061690337,
+            0.15065108806346103,
+            0.14782562405048347
+        ]
+    },
+    {
+        "optimiser": "sgd",
+        "seed": 2060105,
+        "accuracy": 0.9,
+        "loss_history": [
+            6.8859690943024585,
+            0.4251624879482776,
+            0.341104501718176,
+            0.30621859171127747,
+            0.2829506255825603,
+            0.265566876639701,
+            0.25262393452231835,
+            0.24271300224972908,
+            0.23426039587887282,
+            0.22723981028873702,
+            0.22075716143027477,
+            0.21425277003428292,
+            0.20811521174647374,
+            0.20226010498868568,
+            0.19662600331287727,
+            0.19188650422725811,
+            0.18794873389445452,
+            0.1845105993903854,
+            0.1813222474985837,
+            0.17835724760490218
+        ]
+    },
+    {
+        "optimiser": "sgd",
+        "seed": 4815892,
+        "accuracy": 0.89,
+        "loss_history": [
+            1.2280284849418044,
+            0.2855814221022074,
+            0.26698687864351556,
+            0.25509665807186704,
+            0.24578877672676533,
+            0.23837932104002857,
+            0.23229979132929857,
+            0.22714319426504756,
+            0.2226351821700253,
+            0.21860646403381537,
+            0.21491369079213862,
+            0.21152877748924698,
+            0.20828625090317382,
+            0.20517216196914512,
+            0.20219113619097084,
+            0.1993357380411128,
+            0.19662068431124802,
+            0.19398300077287436,
+            0.19142646334318683,
+            0.18893814213699733
+        ]
+    },
+    {
+        "optimiser": "sgd",
+        "seed": 8353899,
+        "accuracy": 0.89,
+        "loss_history": [
+            3.088681961179448,
+            0.3959926831287162,
+            0.3414179738920595,
+            0.31219477770306653,
+            0.2919945184585517,
+            0.2771266996732539,
+            0.2655882427677778,
+            0.25514304745064414,
+            0.2456826908201051,
+            0.23705755957174404,
+            0.22855420841769145,
+            0.22114139506340424,
+            0.21512933126486405,
+            0.20967678804652842,
+            0.20469327399391332,
+            0.20009719970034656,
+            0.19573174482909983,
+            0.1915884181763117,
+            0.18748829941740403,
+            0.18371026656484588
+        ]
+    },
+    {
+        "optimiser": "sgd",
+        "seed": 3870089,
+        "accuracy": 0.94,
+        "loss_history": [
+            2.314776717532407,
+            0.38023389241466177,
+            0.286775521397093,
+            0.24371945449704047,
+            0.22222226966822356,
+            0.2094541672033733,
+            0.20060243919395881,
+            0.19365577509097473,
+            0.18811977518411932,
+            0.18339931666323284,
+            0.1790689232732113,
+            0.1751644966388141,
+            0.17155617733067186,
+            0.1681340560829424,
+            0.16495074596965814,
+            0.16199487384604133,
+            0.15927869912159046,
+            0.15673043158278913,
+            0.15434439974958322,
+            0.15208211832175367
+        ]
+    },
+    {
+        "optimiser": "sgd",
+        "seed": 8461779,
+        "accuracy": 0.93,
+        "loss_history": [
+            1.998596407753532,
+            0.24064352202181807,
+            0.22775169213814123,
+            0.22032628002119495,
+            0.2144151266375604,
+            0.2094196754989725,
+            0.2049530385020519,
+            0.20082967919455225,
+            0.1970072791507526,
+            0.1934419603750123,
+            0.19000154087304888,
+            0.1866675606132312,
+            0.18344288330575093,
+            0.18041041475106545,
+            0.17754071945088654,
+            0.17478997041935387,
+            0.17227037079139904,
+            0.1699827480697592,
+            0.1678044491540313,
+            0.16570277323170068
+        ]
+    },
+    {
+        "optimiser": "sgd",
+        "seed": 9073526,
+        "accuracy": 0.85,
+        "loss_history": [
+            6.795299226612235,
+            0.3032599270087097,
+            0.28385706978058634,
+            0.2768405164394745,
+            0.27196785190290995,
+            0.2685507664786721,
+            0.2656999021780171,
+            0.26338433143576756,
+            0.2615191561978192,
+            0.2598556516183314,
+            0.25838341135163795,
+            0.2570952839294189,
+            0.2558091997405305,
+            0.254504072726062,
+            0.25321321457550106,
+            0.2519006418178409,
+            0.25058470143894296,
+            0.2492246284970733,
+            0.24783621837584266,
+            0.2464189319931368
+        ]
+    },
+    {
+        "optimiser": "sgd",
+        "seed": 6298437,
+        "accuracy": 0.9,
+        "loss_history": [
+            0.9579364543689084,
+            0.35358518572625364,
+            0.28435221867689786,
+            0.25667930939038924,
+            0.24209996329310166,
+            0.23301118710778315,
+            0.22640766056010594,
+            0.22128143764712827,
+            0.21704094724096534,
+            0.21332365556460253,
+            0.20997844729453882,
+            0.20687998226801205,
+            0.2039342885474037,
+            0.2011156357473454,
+            0.19841892107995904,
+            0.19583063521447497,
+            0.19331325533503596,
+            0.19086835384863213,
+            0.18848336293065387,
+            0.1861534719653832
+        ]
+    },
+    {
+        "optimiser": "momentum",
+        "seed": 6576651,
+        "accuracy": 0.88,
+        "loss_history": [
+            2.00566237200062,
+            0.3994162230450635,
+            0.3546007895336145,
+            0.3300741473490483,
+            0.3132677695831218,
+            0.29976523567891133,
+            0.2883357247898507,
+            0.27871618741199927,
+            0.2701903123470304,
+            0.2628719335291107,
+            0.2569535933360994,
+            0.2522713063459068,
+            0.2485523040712752,
+            0.2450977264367075,
+            0.24174052705673355,
+            0.23850828435697236,
+            0.2354179926806478,
+            0.23257422634074637,
+            0.2299342009394856,
+            0.2272338912391297
+        ]
+    },
+    {
+        "optimiser": "momentum",
+        "seed": 6583618,
+        "accuracy": 0.9,
+        "loss_history": [
+            1.6716076137214964,
+            0.34835945401783236,
+            0.30492445227876125,
+            0.2821543833092698,
+            0.2671697388741802,
+            0.2568280084969847,
+            0.2490941711114227,
+            0.24272081496772283,
+            0.23733545359882297,
+            0.2327795325566673,
+            0.22874992737793712,
+            0.22512349603489754,
+            0.22167850458589183,
+            0.2183201584370285,
+            0.21511125076456594,
+            0.21189630084174027,
+            0.2088143275094191,
+            0.20585025274738164,
+            0.2030176219553349,
+            0.2003102985561228
+        ]
+    },
+    {
+        "optimiser": "momentum",
+        "seed": 4708420,
+        "accuracy": 0.85,
+        "loss_history": [
+            5.195751283241432,
+            0.593162552438739,
+            0.3582254770148947,
+            0.31662734794111347,
+            0.30347343117623204,
+            0.2965633079587695,
+            0.2916508717747655,
+            0.2878251633214938,
+            0.2847341860598127,
+            0.28208022214961453,
+            0.27968762270622494,
+            0.27725453251876864,
+            0.2749129242703885,
+            0.27260812032597603,
+            0.2705084175632637,
+            0.26858806985248423,
+            0.26674866115641416,
+            0.2648323752997853,
+            0.26296290569212893,
+            0.2611333939803171
+        ]
+    },
+    {
+        "optimiser": "momentum",
+        "seed": 6459092,
+        "accuracy": 0.91,
+        "loss_history": [
+            3.7818174230276416,
+            0.3201400095718441,
+            0.2753561130824561,
+            0.25421410169290515,
+            0.23972388679047807,
+            0.2290886143866595,
+            0.22174391872241958,
+            0.21598115069486426,
+            0.21151648113691024,
+            0.20790757755803788,
+            0.2049094270446647,
+            0.20216408910392475,
+            0.19958532142197974,
+            0.1971557619768641,
+            0.1947802401351143,
+            0.19249388642994256,
+            0.19026404696023938,
+            0.1880831531331381,
+            0.1859472071779173,
+            0.18380323363822143
+        ]
+    },
+    {
+        "optimiser": "momentum",
+        "seed": 3929797,
+        "accuracy": 0.89,
+        "loss_history": [
+            2.5294230743112247,
+            0.4892047117881275,
+            0.3802750840923106,
+            0.324048759984707,
+            0.2872573569359425,
+            0.26112585175745917,
+            0.24305162224840962,
+            0.22931634278406612,
+            0.21860453153426945,
+            0.21015021999560923,
+            0.20317019083512328,
+            0.19733475183755536,
+            0.19233646853811512,
+            0.18788781504743923,
+            0.18401359897517103,
+            0.18055215289956766,
+            0.17730823544338378,
+            0.17427234238045824,
+            0.1712223441731452,
+            0.16824985124413896
+        ]
+    },
+    {
+        "optimiser": "momentum",
+        "seed": 7874279,
+        "accuracy": 0.88,
+        "loss_history": [
+            2.4985830586161355,
+            0.584401336159337,
+            0.39108752448217277,
+            0.33175188955075785,
+            0.30286750038971844,
+            0.2860014589342352,
+            0.27589829100110685,
+            0.26834346737072073,
+            0.2623134603191245,
+            0.2576982963504716,
+            0.25375574777191356,
+            0.250232262546875,
+            0.24692575124193944,
+            0.24376620272352206,
+            0.24091240180605375,
+            0.23817018614027624,
+            0.2354772829132407,
+            0.23276643070435693,
+            0.23010528617473014,
+            0.22752970428225494
+        ]
+    },
+    {
+        "optimiser": "momentum",
+        "seed": 334751,
+        "accuracy": 0.85,
+        "loss_history": [
+            5.380285670872407,
+            0.4185198989110055,
+            0.37684429742768627,
+            0.35511117041192736,
+            0.3388890115774973,
+            0.3249131528458665,
+            0.31345698605867334,
+            0.3041439407170677,
+            0.2962581536797614,
+            0.28984363716897005,
+            0.28444582648442057,
+            0.27981077240859153,
+            0.27571722009956146,
+            0.2720276987636012,
+            0.26868606024688846,
+            0.2656779675737886,
+            0.2629461521081709,
+            0.2604206388620801,
+            0.2581045807395472,
+            0.2559145308636708
+        ]
+    },
+    {
+        "optimiser": "momentum",
+        "seed": 2525227,
+        "accuracy": 0.88,
+        "loss_history": [
+            2.02520496917824,
+            0.3774370139018018,
+            0.32462959413786974,
+            0.29695126008888095,
+            0.27793692416345595,
+            0.26482653916374504,
+            0.254756618262374,
+            0.24658428403808366,
+            0.23970900569093406,
+            0.2337144181370305,
+            0.22846774009556636,
+            0.2237974784434128,
+            0.21956679207704738,
+            0.2157337664024233,
+            0.2120452374640849,
+            0.2086718138346579,
+            0.20575848192861323,
+            0.2030306245575752,
+            0.20041858143725136,
+            0.1979198654431778
+        ]
+    },
+    {
+        "optimiser": "momentum",
+        "seed": 5602665,
+        "accuracy": 0.86,
+        "loss_history": [
+            2.605563270951259,
+            0.459298067431735,
+            0.3677249845214627,
+            0.3414326043173653,
+            0.3263314381138875,
+            0.31525504383773656,
+            0.3063747925001964,
+            0.2991280068679321,
+            0.2927620305796036,
+            0.28721999410290155,
+            0.2823589616582085,
+            0.2779895666932347,
+            0.27408676396298065,
+            0.2703616764629557,
+            0.26683642570551275,
+            0.26357675092561267,
+            0.2604672578584365,
+            0.25760629683471936,
+            0.2549311064345773,
+            0.25238747296371383
+        ]
+    },
+    {
+        "optimiser": "momentum",
+        "seed": 1944623,
+        "accuracy": 0.93,
+        "loss_history": [
+            1.6261055357730623,
+            0.3265463381210411,
+            0.2867653062212793,
+            0.26813810720330755,
+            0.25560696384393927,
+            0.24533146929018332,
+            0.23634193248014604,
+            0.22816783973029775,
+            0.22126825771583697,
+            0.2147900315808742,
+            0.20900016720527462,
+            0.2036847977852334,
+            0.19892104216888615,
+            0.19483516273908688,
+            0.19097924137130604,
+            0.1872302686715259,
+            0.18365453739484394,
+            0.18028624652453118,
+            0.1771099497175282,
+            0.17412286909198232
+        ]
+    },
+    {
+        "optimiser": "rmsprop",
+        "seed": 4426232,
+        "accuracy": 0.97,
+        "loss_history": [
+            3.2558660191833386,
+            1.4682616614422885,
+            0.44973629665286546,
+            0.24463855450287744,
+            0.18972204253211622,
+            0.1577646902927294,
+            0.13105807132259983,
+            0.10950787970521135,
+            0.09126977362594518,
+            0.07666639225474718,
+            0.06504167941372756,
+            0.05652644581533764,
+            0.050158655289058406,
+            0.045274701884477395,
+            0.041690341055910955,
+            0.038799504289324604,
+            0.03635314575910001,
+            0.034235004986093526,
+            0.03255267492259321,
+            0.031165273330834235
+        ]
+    },
+    {
+        "optimiser": "rmsprop",
+        "seed": 5615752,
+        "accuracy": 0.98,
+        "loss_history": [
+            1.0154457314283887,
+            0.39055860506075474,
+            0.25139556614421005,
+            0.1967495212514824,
+            0.16500181835601627,
+            0.14218239159227367,
+            0.1229182223202889,
+            0.10667822546122509,
+            0.09295543551650058,
+            0.08139331341572141,
+            0.07199518453854249,
+            0.06427946017671904,
+            0.05804075073036678,
+            0.05296788264414891,
+            0.048817602337898044,
+            0.045267606898604616,
+            0.04177331861216097,
+            0.03890822495238321,
+            0.03656095068225342,
+            0.03463038791275177
+        ]
+    },
+    {
+        "optimiser": "rmsprop",
+        "seed": 6221968,
+        "accuracy": 0.97,
+        "loss_history": [
+            2.560067647022927,
+            0.7181869309432142,
+            0.25833545538067854,
+            0.1658207532205522,
+            0.1271645790553987,
+            0.10286714987157815,
+            0.08472957047889183,
+            0.07105796097189275,
+            0.06079051085678763,
+            0.05283066144147359,
+            0.04648676960476364,
+            0.041656254810333866,
+            0.038274974548126686,
+            0.035556549094966104,
+            0.03331200213296351,
+            0.031516845846632106,
+            0.02998142184289204,
+            0.028736916966121354,
+            0.02769819576072488,
+            0.02681724499755376
+        ]
+    },
+    {
+        "optimiser": "rmsprop",
+        "seed": 3275649,
+        "accuracy": 0.98,
+        "loss_history": [
+            5.528430329155247,
+            2.5381094915590854,
+            0.7460908357706465,
+            0.24637716383467584,
+            0.17978899956024033,
+            0.15268535434814295,
+            0.1297358632628075,
+            0.10983584600699617,
+            0.09305756486468399,
+            0.07941983277358523,
+            0.06851409976684779,
+            0.05990416809479162,
+            0.05304469119218625,
+            0.047795186714429734,
+            0.04358619575980246,
+            0.03986867146705816,
+            0.03717668146657856,
+            0.03501800140970781,
+            0.033096711874867325,
+            0.031386625610208746
+        ]
+    },
+    {
+        "optimiser": "rmsprop",
+        "seed": 8086189,
+        "accuracy": 0.97,
+        "loss_history": [
+            5.108727403963433,
+            1.6124088484433892,
+            0.5084111789157683,
+            0.28732780775551,
+            0.192938922911293,
+            0.14139724155114586,
+            0.11013444632457162,
+            0.0900790476408534,
+            0.07627067748732455,
+            0.06587010710502844,
+            0.05837720613683321,
+            0.05254807192013242,
+            0.04785068734795326,
+            0.044092206198958664,
+            0.0405930150184787,
+            0.03758689294500649,
+            0.03539119492927403,
+            0.03354697579220029,
+            0.03198740078828238,
+            0.030691196694041564
+        ]
+    },
+    {
+        "optimiser": "rmsprop",
+        "seed": 408234,
+        "accuracy": 0.99,
+        "loss_history": [
+            1.170045332619538,
+            0.403112386563479,
+            0.2014652239319048,
+            0.157613651024757,
+            0.13247943805164739,
+            0.11451311172941453,
+            0.10140563976414314,
+            0.0909531671932562,
+            0.08197371560456446,
+            0.07433300802322647,
+            0.06783182254852081,
+            0.06235044297649118,
+            0.05766959948897209,
+            0.053687937937444336,
+            0.050235993966380656,
+            0.046952489307640996,
+            0.044286860278498465,
+            0.042193275441079515,
+            0.040449649229693935,
+            0.03893879678789947
+        ]
+    },
+    {
+        "optimiser": "rmsprop",
+        "seed": 4526245,
+        "accuracy": 0.98,
+        "loss_history": [
+            1.1410951823951867,
+            0.32043347822463547,
+            0.21992459921721147,
+            0.1820576935638786,
+            0.15229328405319034,
+            0.1280185183327959,
+            0.10772808783971968,
+            0.0905620348018656,
+            0.07746377703272019,
+            0.06750650717782519,
+            0.060278288926497406,
+            0.0548384391943126,
+            0.050578385223874554,
+            0.04697434127629336,
+            0.04402476146279174,
+            0.04164953883717124,
+            0.039791744086653404,
+            0.03825934611540809,
+            0.03673230339066378,
+            0.0353958462006571
+        ]
+    },
+    {
+        "optimiser": "rmsprop",
+        "seed": 7928551,
+        "accuracy": 0.98,
+        "loss_history": [
+            1.1367190486886949,
+            0.38237678185565094,
+            0.28469988661756895,
+            0.2025943763179879,
+            0.15373921460445975,
+            0.12572724143125402,
+            0.10364009459880855,
+            0.08683580427972598,
+            0.07403470944441486,
+            0.064393199044362,
+            0.05712691568682662,
+            0.05146765198775495,
+            0.04734011342343633,
+            0.044240184147655126,
+            0.04171236008641627,
+            0.03955599255164664,
+            0.03769222534090521,
+            0.03593356671098029,
+            0.03437015346700131,
+            0.03314158004309086
+        ]
+    },
+    {
+        "optimiser": "rmsprop",
+        "seed": 5954786,
+        "accuracy": 0.98,
+        "loss_history": [
+            7.967777358095415,
+            4.941641892584969,
+            2.367969624779298,
+            0.5850869264837354,
+            0.22849161390433623,
+            0.15297768014414032,
+            0.12515458980143115,
+            0.1073553485659489,
+            0.09328911698192957,
+            0.08201154729204173,
+            0.07337839717286507,
+            0.06674869931204692,
+            0.06153759785730552,
+            0.05747201529248083,
+            0.05425314802264074,
+            0.05145319731382161,
+            0.049234366023208465,
+            0.04752132395177064,
+            0.04607179484458532,
+            0.044850484050885465
+        ]
+    },
+    {
+        "optimiser": "rmsprop",
+        "seed": 2304998,
+        "accuracy": 0.98,
+        "loss_history": [
+            0.7999342219246135,
+            0.47486105756214664,
+            0.3319666641774128,
+            0.2492908436295329,
+            0.2055923339464399,
+            0.1747903634511784,
+            0.14833815097136052,
+            0.12453796358225777,
+            0.1035243170288891,
+            0.08597195878995223,
+            0.0722201355657702,
+            0.0612639662031919,
+            0.05270801900787645,
+            0.046810589915122366,
+            0.042417888359928234,
+            0.03902802366914511,
+            0.036302934838829244,
+            0.03411731246392782,
+            0.032328888814763174,
+            0.03086159866314271
+        ]
+    },
+    {
+        "optimiser": "adam",
+        "seed": 9681978,
+        "accuracy": 0.98,
+        "loss_history": [
+            1.117676755612389,
+            0.4695963814587024,
+            0.3536903774930535,
+            0.2794383226469129,
+            0.2273711125028344,
+            0.19364329483323697,
+            0.17025472055486404,
+            0.15264564365898434,
+            0.13941223382140008,
+            0.1283084514381288,
+            0.11877978490779627,
+            0.11050982342659328,
+            0.10325217048721785,
+            0.09664664251305599,
+            0.09049740754922922,
+            0.0852033398334821,
+            0.08034101418616672,
+            0.07545844146097112,
+            0.07141004559326852,
+            0.0675606463158207
+        ]
+    },
+    {
+        "optimiser": "adam",
+        "seed": 3725540,
+        "accuracy": 0.97,
+        "loss_history": [
+            2.8936260991805454,
+            1.276788482727582,
+            0.5511463962125661,
+            0.36844450381534416,
+            0.31740560832539827,
+            0.2894640851539112,
+            0.2681855275820422,
+            0.2502871460836972,
+            0.23229043648484984,
+            0.21519130229252353,
+            0.19983740129232552,
+            0.1856564928856082,
+            0.17203686652772096,
+            0.16008233541845007,
+            0.1493129762375983,
+            0.13916331404503396,
+            0.12977831087480235,
+            0.12149310513087354,
+            0.11439475428047713,
+            0.10823145403336262
+        ]
+    },
+    {
+        "optimiser": "adam",
+        "seed": 1181707,
+        "accuracy": 0.98,
+        "loss_history": [
+            2.069457915700021,
+            0.7103043644179127,
+            0.3504619866207595,
+            0.2646530949059859,
+            0.22887475730609075,
+            0.20881608834290055,
+            0.19555845704242786,
+            0.18249695205882502,
+            0.1666993397407186,
+            0.14964603346290772,
+            0.13530611239176696,
+            0.12402820043043011,
+            0.1147853942324554,
+            0.10697602276978097,
+            0.09994112397866493,
+            0.09374914098159938,
+            0.0882269238720707,
+            0.08351167522558393,
+            0.07939748731049004,
+            0.0756963065316599
+        ]
+    },
+    {
+        "optimiser": "adam",
+        "seed": 9876025,
+        "accuracy": 0.98,
+        "loss_history": [
+            0.9950761464595049,
+            0.4001357399595726,
+            0.30030480937719484,
+            0.25653764380983773,
+            0.2293460256755616,
+            0.20658831061156527,
+            0.18653602902394478,
+            0.16920900330724245,
+            0.1540560169037111,
+            0.14000589295031649,
+            0.12784315643294725,
+            0.11729472521179898,
+            0.10819012890504322,
+            0.10037621721432341,
+            0.09359050945819038,
+            0.08765367282860456,
+            0.08258880457159964,
+            0.07817838850143705,
+            0.0744691912635934,
+            0.07104553045191109
+        ]
+    },
+    {
+        "optimiser": "adam",
+        "seed": 744298,
+        "accuracy": 0.98,
+        "loss_history": [
+            1.6134346475108234,
+            0.4783237437399048,
+            0.24160356113299475,
+            0.2066676076581621,
+            0.18753334587061232,
+            0.17456720167627068,
+            0.1629548412043578,
+            0.15233702863431164,
+            0.14262682365610516,
+            0.13370691403309723,
+            0.12543905785261666,
+            0.11766167270839914,
+            0.11033661438098172,
+            0.10339474513873852,
+            0.09679117599629024,
+            0.09062710500710548,
+            0.08495581881500044,
+            0.07930771949461982,
+            0.07457392453811178,
+            0.07062544532018594
+        ]
+    },
+    {
+        "optimiser": "adam",
+        "seed": 6793916,
+        "accuracy": 0.97,
+        "loss_history": [
+            5.866435252994745,
+            2.939009194409747,
+            0.6106754610977858,
+            0.29238233424648813,
+            0.2423329966038626,
+            0.21877611551318707,
+            0.20098449907415897,
+            0.18521748055582754,
+            0.17059887174533114,
+            0.15756983307302858,
+            0.14609922035827005,
+            0.13600076218955232,
+            0.12727692092916493,
+            0.11953620665363214,
+            0.11251192620592963,
+            0.10636723812890464,
+            0.10085315854266884,
+            0.09597459363375264,
+            0.0915690624275477,
+            0.08764408482730737
+        ]
+    },
+    {
+        "optimiser": "adam",
+        "seed": 1591976,
+        "accuracy": 0.96,
+        "loss_history": [
+            3.6751259129002984,
+            2.0555851652735653,
+            0.8362300807497866,
+            0.3836530053005558,
+            0.28714593338305333,
+            0.24710780596289617,
+            0.22747167865189588,
+            0.21617167656533737,
+            0.20898994373725685,
+            0.20314293680829593,
+            0.19801064572458962,
+            0.19306689693381898,
+            0.18821277498266695,
+            0.18279985709719745,
+            0.17583583829944568,
+            0.16661980722564365,
+            0.15641837426422164,
+            0.1477493423306333,
+            0.13938462785129754,
+            0.13125586882857312
+        ]
+    },
+    {
+        "optimiser": "adam",
+        "seed": 8777251,
+        "accuracy": 0.97,
+        "loss_history": [
+            4.289572563130733,
+            1.6807743361875151,
+            0.4516477436150578,
+            0.31407695492053483,
+            0.26627341706841406,
+            0.23681312475977717,
+            0.214595568182839,
+            0.1962266034394166,
+            0.18065136107047353,
+            0.16749790871703005,
+            0.15628752618344094,
+            0.1465368550278236,
+            0.1379652054652072,
+            0.13035690202777336,
+            0.12365942983148244,
+            0.11748589162408059,
+            0.11171762691670527,
+            0.10645760020912906,
+            0.1015738073718867,
+            0.09710623956243605
+        ]
+    },
+    {
+        "optimiser": "adam",
+        "seed": 5136476,
+        "accuracy": 0.98,
+        "loss_history": [
+            2.5462630788775162,
+            0.8744828441169061,
+            0.38533604159004686,
+            0.2814959299977607,
+            0.23181060237271695,
+            0.1987408935718406,
+            0.17453123612163812,
+            0.15731886588225236,
+            0.14398745872836993,
+            0.1326632448009238,
+            0.12230369649376595,
+            0.11319884849504655,
+            0.10607533192063875,
+            0.09981850548030721,
+            0.09441638463786624,
+            0.0897570450706091,
+            0.08561121474279101,
+            0.08201517999968572,
+            0.07860053457586365,
+            0.07516399700173085
+        ]
+    },
+    {
+        "optimiser": "adam",
+        "seed": 5007631,
+        "accuracy": 0.98,
+        "loss_history": [
+            1.332151358081733,
+            0.4172892370353965,
+            0.2640385251508342,
+            0.2217233404856275,
+            0.19054092006597764,
+            0.16514407169654458,
+            0.14572805558850557,
+            0.13110355144764743,
+            0.11998902051678302,
+            0.11094777544432675,
+            0.1033441083199338,
+            0.09678131549597561,
+            0.09118324414979419,
+            0.08618640026217776,
+            0.0818136770565515,
+            0.07755839328010149,
+            0.07370300092533957,
+            0.0703488201987573,
+            0.06748716553659852,
+            0.0648314536339175
+        ]
     }
 ]
