@@ -82,6 +82,4 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 
 This project is part of a research study on optimization algorithm behavior. For questions or inquiries, please open an issue on GitHub.
 
----
 
-*Last updated: June 2026*
